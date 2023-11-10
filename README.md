@@ -10,10 +10,6 @@ This is the frontend of the corali task application
   - [Development](#development)
 - [Folder Structure](#folder-structure)
 - [Deployment](#deployment)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -29,7 +25,7 @@ Ensure you have the following installed on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Chanuga/Corali_Frontend
+   git clone https://github.com/Chanuga/Corali_Frontend.git
    ```
 
 2. Change into the project directory:
@@ -82,7 +78,4 @@ npm run build   # or yarn build
 
 The build artifacts will be in the `dist/` directory.
 
-## Built With
-
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces.
-- [Vite](https://vitejs.dev/) - Fast frontend development setup.
+-- Hosted on https://corali-frontend.onrender.com/
